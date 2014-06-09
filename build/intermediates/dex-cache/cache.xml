@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/werwe/Documents/DEV/Android/StudioWorkspace/FoldingLayout1/sample/build/intermediates/pre-dexed/debug/classes-ffcc05dc1b3eee7443bf40f7569ea1cd345ae8d4.jar"
+        jar="/Users/werwe/Documents/DEV/Android/StudioWorkspace/FoldingLayout1/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/werwe/Documents/DEV/Android/StudioWorkspace/FoldingLayout1/sample/build/intermediates/pre-dexed/debug/classes-c8d319e5d9843c4f7a4e2ac415f3b74bcb881fbe.jar"
+        jar="/Users/werwe/Documents/DEV/Android/StudioWorkspace/FoldingLayout1/build/intermediates/exploded-aar/FoldingLayout1/app/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8e5690b605653b22e4ed3b3d8157342e5fe17448"/>
+    <item
+        dex="/Users/werwe/Documents/DEV/Android/StudioWorkspace/FoldingLayout1/sample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
